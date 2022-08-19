@@ -1,0 +1,5 @@
+openCV-> pip install opencv-python
+Mediapipe-> pip install mediapipe
+Pycaw->pip install pycaw
+pip install gpib-ctypes
+pip install comtypes
